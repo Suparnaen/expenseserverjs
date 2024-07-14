@@ -1,0 +1,61 @@
+{
+  "expenses": [
+    {
+      "expense_type": "cash",
+      "expense_date": "2023-12-20",
+      "expense_amount": "200",
+      "description": "Water Bill",
+      "id": "1"
+    },
+    {
+      "expense_type": "card",
+      "expense_date": "2023-12-12",
+      "expense_amount": "1200",
+      "description": "Flight Ticket",
+      "id": "2"
+    },
+    {
+      "expense_type": "cash",
+      "expense_date": "2024-01-12",
+      "expense_amount": "1200",
+      "description": "Utility Ticket",
+      "id": "3"
+    },
+    {
+      "id": "d70f",
+      "expense_type": "cash",
+      "expense_date": "2024-01-22",
+      "expense_amount": "300",
+      "description": "rent"
+    },
+    {
+      "id": "44a0",
+      "expense_type": "cash",
+      "expense_date": "2024-01-24",
+      "expense_amount": "350",
+      "description": "Oracle test"
+    }
+  ],
+  "profile": {
+    "first_name": "Jahan",
+    "last_name": "Jalen",
+    "email": "jjk@email.com"
+  },
+  "users": [
+    {
+      "email": "jammie@email.com",
+      "password": "hellohello",
+      "id": "1"
+    },
+    {
+      "email": "user@email.com",
+      "password": "123456",
+      "id": "2"
+    },
+    {
+      "email": "sam@email.co",
+      "password": "123423",
+      "id": "3"
+    }
+  ]
+}
